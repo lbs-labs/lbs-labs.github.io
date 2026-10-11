@@ -9,7 +9,9 @@ GitHub Pages용 정적 사이트입니다.
 - Website: https://lbs-labs.github.io
 - Privacy Center: https://lbs-labs.github.io/privacy/
 - 블럭킹 Privacy: https://lbs-labs.github.io/privacy/blockking/
-- Grove Privacy: https://lbs-labs.github.io/privacy/grove/
+- 그로브 노트 Privacy: https://lbs-labs.github.io/privacy/grove/
 
 ## App Store
 App Store 링크는 아직 연결하지 않고 `Coming Soon`으로 표시했습니다.
+
+- Putt9 Privacy: https://lbs-labs.github.io/privacy/putt9/
