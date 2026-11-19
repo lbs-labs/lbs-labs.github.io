@@ -72,3 +72,7 @@
   .putt9-stats div{min-width:0;padding:12px 8px}
   .putt9-stats b{font-size:24px}
 }
+
+/* Shared privacy-page navigation */
+.policy-top-menu{margin-left:auto;color:#d7deea}
+@media(max-width:480px){.site-header:has(.policy-top-menu) .nav{height:auto;min-height:66px}}
